@@ -1,0 +1,64 @@
+.sub {
+  text-align: left;
+  font-size: 15px;
+  display: grid;
+  grid-template: 60px / 2fr 1fr 1fr;
+  padding: 10px;
+}
+
+.foam {
+  display: grid;
+  grid-template: 40px / 2fr 1fr 1fr;
+  padding: 10px;
+}
+
+.mail {
+  display: grid;
+  grid-template: 40px / 2fr 1fr 6fr;
+  padding: 10px;
+}
+
+.phone {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 30px;
+  padding: 10px;
+}
+
+.hd {
+  font-size: 18px;
+  color: #333;
+  margin-left: 100px;
+  display: flex;
+}
+
+/* .container {
+  height: 100vh;
+  padding: 10px;
+
+  grid-template-columns: auto;
+} */
+
+.txt {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template: 100px / 8fr 2fr 6fr;
+  padding: 10px;
+}
+
+.bok {
+  padding: 15px;
+  margin: 4px;
+}
+
+.btn--primary {
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 8px 12px;
+  text-align: center;
+  font-size: 15px;
+  width: 10%;
+  text-decoration: none;
+}
