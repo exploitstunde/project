@@ -37,7 +37,7 @@ const List = () => {
               >
                 Service
               </NavLink>
-              
+
               <NavLink
                 to="/contact"
                 className="listItem"

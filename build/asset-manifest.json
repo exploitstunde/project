@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9814b973.css",
+    "main.js": "/static/js/main.f47053e0.js",
+    "static/media/airplane.jpg": "/static/media/airplane.505d4d0c516dee14cb8e.jpg",
+    "static/media/segun.jpeg": "/static/media/segun.2508be1b3ac83a77c636.jpeg",
+    "static/media/bolaji.jpeg": "/static/media/bolaji.df597dbcdf0f570e2f5c.jpeg",
+    "static/media/profile.jpg": "/static/media/profile.c13398d6dbd2411bafd9.jpg",
+    "static/media/dare.jpeg": "/static/media/dare.6584dc40d87e379a9579.jpeg",
+    "static/media/ify.jpeg": "/static/media/ify.841b06750e42ace1105b.jpeg",
+    "static/media/obalouwa.jpeg": "/static/media/obalouwa.692494d0b4f9bb2971fd.jpeg",
+    "static/media/SabreRed.png": "/static/media/SabreRed.ff868dbf4679a752b469.png",
+    "static/media/Sabre360.png": "/static/media/Sabre360.6fc5da0a980caa8249fa.png",
+    "static/media/Developers.png": "/static/media/Developers.dbe0b66e0e41e6227375.png",
+    "static/media/dami.jpeg": "/static/media/dami.99fe9040c0622b6a80db.jpeg",
+    "static/media/MarketIntelligence.png": "/static/media/MarketIntelligence.5f8b04d713905ff834f2.png",
+    "static/media/Proposal.png": "/static/media/Proposal.415f8791e2a79e981677.png",
+    "index.html": "/index.html",
+    "main.9814b973.css.map": "/static/css/main.9814b973.css.map",
+    "main.f47053e0.js.map": "/static/js/main.f47053e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9814b973.css",
+    "static/js/main.f47053e0.js"
+  ]
+}
