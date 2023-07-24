@@ -82,12 +82,11 @@ const Contact = () => {
           <h2 className="hd">Sabre West Africa Headquaters</h2>
           <p>
             PTL Towers, 3 Ajao Road, Off Adeniyi Jones, P.O.Box 6613, Ikeja,
-            Lagos State.
-          </p>
-          <p>enquiries@sabreng.com, helpdesk@sabreng.com</p>
-          <p>
-            +234 807 929 7113, +234 812 801 4552 TOLLFREE LINES: +234
-            8031230223, 8031230224
+            Lagos State.<br></br>
+            <br></br>
+            Email: enquiries@sabreng.com, helpdesk@sabreng.com <br></br>
+            Customer Care: +234 807 929 7113, +234 812 801 4552 TOLLFREE LINES: +2348031230223,
+            8031230224
           </p>
         </div>
         <div>Business hours </div>

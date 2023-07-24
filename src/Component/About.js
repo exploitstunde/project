@@ -29,38 +29,38 @@ const About = () => {
         <div className="services">
           <div className="memo">
             <img src={airimg} alt="service1" />
-            <h2>Dare Olayiwola</h2>
+            <h2 className="da">Dare Olayiwola</h2>
           </div>
 
           <div className="memo">
             <img src={lag} alt="service1" />
-            <h2>Ifeyinwa Ozioko</h2>
+            <h2 className="if">Ifeyinwa Ozioko</h2>
           </div>
 
           <div className="memo">
             <img src={meg} alt="service1" />
-            <h2>Segun Taiwo</h2>
+            <h2 className="se">Segun Taiwo</h2>
           </div>
 
           <div className="memo">
             <img src={gag} alt="service1" />
-            <h2>Bolaji Oladipo</h2>
+            <h2 className="bo">Bolaji Oladipo</h2>
           </div>
 
           <div className="memo">
             <img src={dam} alt="service1" />
-            <h2>Damilola Awosope</h2>
+            <h2 className="da">Damilola Awosope</h2>
           </div>
         </div>
       </div>
       <div className="cowry">
         <div className="mo">
           <img src={oba} alt="service1" />
-          <h2>Obaloluwa Oduyemi</h2>
+          <h2 className="if">Obaloluwa Oduyemi</h2>
         </div>
         <div className="mo">
           <img src={mega} alt="service1" />
-          <h2>Tunde Akindele</h2>
+          <h2 className="if">Tunde Akindele</h2>
         </div>
       </div>
     </>
