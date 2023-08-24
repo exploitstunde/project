@@ -85,11 +85,16 @@ const Contact = () => {
             Lagos State.<br></br>
             <br></br>
             Email: enquiries@sabreng.com, helpdesk@sabreng.com <br></br>
-            Customer Care: +234 807 929 7113, +234 812 801 4552 TOLLFREE LINES: +2348031230223,
-            8031230224
+            Customer Care: +234 807 929 7113, +234 812 801 4552 TOLLFREE LINES:
+            +2348031230223, 8031230224 <br></br>Business hours
           </p>
         </div>
-        <div>Business hours </div>
+        <div>
+          Business hours
+          <p>
+            Working Hours: Monday - Friday (8am-5pm), Saturdays (9am-3:30pm)
+          </p>
+        </div>
       </div>
     </>
   );

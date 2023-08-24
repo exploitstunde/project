@@ -10,17 +10,23 @@ import Footer from "./Component/Footer";
 
 const App = () => {
   return (
-    <>
-      <List />
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/service" component={Service} />
-        <Route path="/contact" component={Contact} />
-        <Route component={Error} />.
-      </Switch>
-      <Footer />
-    </>
+    <div className="page-container">
+      <div className="content-wrap">
+        <>
+          <div>
+            <List />
+            <Switch>
+              <Route exact path="/" component={Home} />
+              <Route path="/about" component={About} />
+              <Route path="/service" component={Service} />
+              <Route path="/contact" component={Contact} />
+              <Route component={Error} />.
+            </Switch>
+          </div>
+          <Footer />
+        </>
+      </div>
+    </div>
   );
 };
 
